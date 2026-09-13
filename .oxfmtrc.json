@@ -1,0 +1,15 @@
+{
+	"$schema": "./node_modules/oxfmt/configuration_schema.json",
+	"useTabs": true,
+	"singleQuote": true,
+	"trailingComma": "none",
+	"svelte": true,
+	"ignorePatterns": [
+		"pnpm-lock.yaml",
+		"mise.lock",
+		"build/**",
+		".svelte-kit/**",
+		"src/lib/i18n/generated/**",
+		"tmp/**"
+	]
+}

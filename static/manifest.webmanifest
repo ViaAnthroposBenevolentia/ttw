@@ -1,0 +1,21 @@
+{
+	"id": "/",
+	"name": "ttw — Tongue twisters",
+	"short_name": "ttw",
+	"description": "A little practice, one tongue twister at a time.",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "#131116",
+	"theme_color": "#131116",
+	"icons": [
+		{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+		{ "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+		{
+			"src": "/icons/maskable-512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	]
+}

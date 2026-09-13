@@ -1,0 +1,8 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "oxc.oxc-vscode",
+	"[svelte]": {
+		"editor.defaultFormatter": "oxc.oxc-vscode"
+	},
+	"js/ts.experimental.useTsgo": false
+}

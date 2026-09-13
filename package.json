@@ -1,0 +1,54 @@
+{
+	"name": "ttw",
+	"version": "0.1.0",
+	"private": true,
+	"license": "MIT",
+	"type": "module",
+	"imports": {
+		"#lib/*": "./src/lib/*"
+	},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "pnpm sync && husky",
+		"format": "oxfmt --check",
+		"format:fix": "oxfmt",
+		"lint": "oxlint --type-aware --deny-warnings",
+		"lint:fix": "oxlint --type-aware --fix --deny-warnings",
+		"typecheck": "pnpm sync && svelte-check --fail-on-warnings && tsc -p src/service-worker/tsconfig.json --noEmit",
+		"content:check": "node scripts/check-content.ts",
+		"knip": "knip --no-progress",
+		"fix": "pnpm format:fix && pnpm lint:fix",
+		"check": "pnpm format && pnpm lint && pnpm typecheck && pnpm content:check && pnpm knip && pnpm build",
+		"sync": "paraglide-js compile --project ./project.inlang --outdir ./src/lib/i18n/generated --strategy preferredLanguage baseLocale && svelte-kit sync"
+	},
+	"devDependencies": {
+		"@fontsource-variable/manrope": "5.3.0",
+		"@inlang/paraglide-js": "2.25.2",
+		"@sveltejs/adapter-static": "4.0.0-next.4",
+		"@sveltejs/kit": "3.0.0-next.27",
+		"@sveltejs/vite-plugin-svelte": "7.3.0",
+		"@tailwindcss/vite": "4.3.3",
+		"@types/node": "^24.13.4",
+		"husky": "9.1.7",
+		"knip": "6.35.1",
+		"lint-staged": "17.5.1",
+		"oxfmt": "0.67.0",
+		"oxlint": "1.82.0",
+		"oxlint-tsgolint": "7.0.2001",
+		"svelte": "5.57.0",
+		"svelte-check": "4.7.6",
+		"tailwindcss": "4.3.3",
+		"typescript": "6.0.3",
+		"vite": "8.3.0"
+	},
+	"lint-staged": {
+		"*.{js,ts,svelte,css,json,md,yml,yaml,html}": "oxfmt --no-error-on-unmatched-pattern"
+	},
+	"engines": {
+		"node": ">=24.21.0 <25",
+		"pnpm": ">=12.4.1 <13"
+	},
+	"packageManager": "pnpm@12.4.1"
+}

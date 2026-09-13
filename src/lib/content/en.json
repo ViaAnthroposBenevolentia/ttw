@@ -1,0 +1,265 @@
+{
+	"sources": {
+		"engvid": {
+			"title": "engVid — 50 Tongue Twisters",
+			"url": "https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/"
+		},
+		"international": {
+			"title": "1st International Collection of Tongue Twisters",
+			"url": "https://www.tongue-twister.net/en.htm"
+		}
+	},
+	"twisters": [
+		{
+			"id": "en-001",
+			"text": "Peter Piper picked a peck of pickled peppers.\nA peck of pickled peppers Peter Piper picked.\nIf Peter Piper picked a peck of pickled peppers,\nWhere’s the peck of pickled peppers Peter Piper picked?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-002",
+			"text": "Betty Botter bought some butter\nBut she said the butter’s bitter\nIf I put it in my batter, it will make my batter bitter\nBut a bit of better butter will make my batter better\nSo ‘twas better Betty Botter bought a bit of better butter",
+			"source": "engvid",
+			"author": "Carolyn Wells"
+		},
+		{
+			"id": "en-003",
+			"text": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?\nHe would chuck, he would, as much as he could, and chuck as much wood\nAs a woodchuck would if a woodchuck could chuck wood",
+			"source": "engvid"
+		},
+		{
+			"id": "en-004",
+			"text": "She sells seashells by the seashore.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-005",
+			"text": "How can a clam cram in a clean cream can?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-006",
+			"text": "Susie works in a shoeshine shop. Where she shines she sits, and where she sits she shines.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-007",
+			"text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn’t fuzzy, was he?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-008",
+			"text": "Can you can a can as a canner can can a can?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-009",
+			"text": "I saw a kitten eating chicken in the kitchen.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-010",
+			"text": "If a dog chews shoes, whose shoes does he choose?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-011",
+			"text": "I wish to wash my Irish wristwatch.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-012",
+			"text": "Near an ear, a nearer ear, a nearly eerie ear.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-013",
+			"text": "Eddie edited it.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-014",
+			"text": "Willie’s really weary.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-015",
+			"text": "A big black bear sat on a big black rug.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-016",
+			"text": "Tom threw Tim three thumbtacks.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-017",
+			"text": "He threw three free throws.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-018",
+			"text": "Nine nice night nurses nursing nicely.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-019",
+			"text": "Four fine fresh fish for you.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-020",
+			"text": "Six sticky skeletons.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-021",
+			"text": "Which witch is which?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-022",
+			"text": "Red lorry, yellow lorry.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-023",
+			"text": "Thin sticks, thick bricks.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-024",
+			"text": "Eleven benevolent elephants.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-025",
+			"text": "She sees cheese.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-026",
+			"text": "Truly rural.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-027",
+			"text": "Good blood, bad blood.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-028",
+			"text": "Pre-shrunk silk shirts.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-029",
+			"text": "We surely shall see the sun shine soon.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-030",
+			"text": "Which wristwatches are Swiss wristwatches?",
+			"source": "engvid"
+		},
+		{
+			"id": "en-031",
+			"text": "Fred fed Ted bread, and Ted fed Fred bread.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-032",
+			"text": "I slit the sheet, the sheet I slit, and on the slitted sheet I sit.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-033",
+			"text": "A skunk sat on a stump and thunk the stump stunk, but the stump thunk the skunk stunk.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-034",
+			"text": "Lesser leather never weathered wetter weather better.",
+			"source": "engvid"
+		},
+		{
+			"id": "en-035",
+			"text": "The thirty-three thieves thought that they thrilled the throne throughout Thursday.",
+			"source": "international"
+		},
+		{
+			"id": "en-036",
+			"text": "There was a fisherman named Fisher\nwho fished for some fish in a fissure.\nTill a fish with a grin,\npulled the fisherman in.\nNow they're fishing the fissure for Fisher.",
+			"source": "international"
+		},
+		{
+			"id": "en-037",
+			"text": "One-one was a race horse.\nTwo-two was one too.\nOne-one won one race.\nTwo-two won one too.",
+			"source": "international"
+		},
+		{
+			"id": "en-038",
+			"text": "Six sleek swans swam swiftly southwards",
+			"source": "international"
+		},
+		{
+			"id": "en-039",
+			"text": "Black background, brown background.",
+			"source": "international"
+		},
+		{
+			"id": "en-040",
+			"text": "The great Greek grape growers grow great Greek grapes.",
+			"source": "international"
+		},
+		{
+			"id": "en-041",
+			"text": "A twister of twists once twisted a twist.\nand the twist that he twisted was a three-twisted twist.\nnow in twisting this twist,\nif a twist should untwist,\nwould the twist that untwisted untwist the twists?",
+			"source": "international"
+		},
+		{
+			"id": "en-042",
+			"text": "Whether the weather be fine\nor whether the weather be not.\nWhether the weather be cold\nor whether the weather be hot.\nWe'll weather the weather\nwhether we like it or not.",
+			"source": "international"
+		},
+		{
+			"id": "en-043",
+			"text": "Can you imagine an imaginary menagerie manager\nimagining managing an imaginary menagerie?",
+			"source": "international"
+		},
+		{
+			"id": "en-044",
+			"text": "Red leather, yellow leather.",
+			"source": "international"
+		},
+		{
+			"id": "en-045",
+			"text": "A box of biscuits,\na box of mixed biscuits,\nand a biscuit mixer.",
+			"source": "international"
+		},
+		{
+			"id": "en-046",
+			"text": "When a doctor doctors a doctor,\ndoes the doctor doing the doctoring\ndoctor as the doctor being doctored wants to be doctored or\ndoes the doctor doing the doctoring doctor as he wants to doctor?",
+			"source": "international"
+		},
+		{
+			"id": "en-047",
+			"text": "If two witches would watch two watches, which witch would watch which watch?",
+			"source": "international"
+		},
+		{
+			"id": "en-048",
+			"text": "A proper cup of coffee from a proper copper coffee pot.",
+			"source": "international"
+		},
+		{
+			"id": "en-049",
+			"text": "Theophilus Thadeus Thistledown, the successful thistle-sifter, while sifting a sieve-full of unsifted thistles, thrust three thousand thistles through the thick of his thumb. Now, if Theophilus Thadeus Thistledown, the successful thistle-sifter, thrust three thousand thistles through the thick of his thumb, see that thou, while sifting a sieve-full of unsifted thistles, thrust not three thousand thistles through the thick of thy thumb.",
+			"source": "international"
+		},
+		{
+			"id": "en-050",
+			"text": "A flea and a fly in a flue,\nwere imprisoned. So what could they do?\nSaid the fly, \"Let us flee\".\nSaid the flea, \"Let us fly\".\nSo they flew through a flaw in the flue.",
+			"source": "international"
+		}
+	]
+}

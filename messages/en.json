@@ -1,0 +1,23 @@
+{
+	"app_title": "ttw — a little twist for your tongue",
+	"app_description": "Find your flow with tongue twisters in English, Kazakh, and Russian. A little practice, one card at a time.",
+	"languages": "Languages",
+	"choose_languages": "Choose languages",
+	"languages_selected": "Languages: {languages}",
+	"selected_count": "{count} selected",
+	"twister_count": "{count} tongue twisters",
+	"deck_count": "{count} twisters in your deck · shuffled together",
+	"pin_language": "Pin {language}",
+	"unpin_language": "Unpin {language}",
+	"previous": "Previous",
+	"next": "Next",
+	"position": "Card {current} of {total}",
+	"empty_title": "A world of words awaits.",
+	"empty_description": "Choose a language to give your tongue a little twist.",
+	"empty_action": "Choose a language",
+	"play": "Listen to pronunciation",
+	"stop": "Stop pronunciation",
+	"card_help": "Tap for the next twister. Use the navigation controls for the previous or next card. Use Enter or Space to activate the card. Use up and down arrows to scroll longer text.",
+	"loading": "Getting your deck ready…",
+	"no_script": "Enable JavaScript to shuffle and practice tongue twisters."
+}
