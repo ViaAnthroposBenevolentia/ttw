@@ -1,0 +1,260 @@
+{
+	"sources": {
+		"international": {
+			"title": "1st International Collection of Tongue Twisters — French",
+			"url": "https://www.tongue-twister.net/fr.htm"
+		}
+	},
+	"twisters": [
+		{
+			"id": "fr-001",
+			"text": "Les chaussettes de l'archiduchesse sont-elles sèches? Archi-sèches!",
+			"source": "international"
+		},
+		{
+			"id": "fr-002",
+			"text": "Où niche la pie? La pie niche haut. Où niche l'oie? L'oie niche bas. Où niche l'hibou? L'hibou niche ni haut ni bas !",
+			"source": "international"
+		},
+		{
+			"id": "fr-003",
+			"text": "Mon père est maire, mon frère est masseur.",
+			"source": "international"
+		},
+		{
+			"id": "fr-004",
+			"text": "Ces cerises sont si sures qu'on ne sait pas si c'en sont.",
+			"source": "international"
+		},
+		{
+			"id": "fr-005",
+			"text": "Un dragon gradé dégrade un gradé dragon.",
+			"source": "international"
+		},
+		{
+			"id": "fr-006",
+			"text": "Tes laitues naissent-elles ? Si tes laitues naissent, mes laitues naîtront.",
+			"source": "international"
+		},
+		{
+			"id": "fr-007",
+			"text": "Pauvre petit pêcheur, prends patience pour pouvoir prendre plusieurs petits poissons.",
+			"source": "international"
+		},
+		{
+			"id": "fr-008",
+			"text": "Dans la gendarmerie, quand un gendarme rit, tous les gendarmes rient dans la gendarmerie.",
+			"source": "international"
+		},
+		{
+			"id": "fr-009",
+			"text": "Cette taxe fixe excessive est fixée exprès à Aix par le fisc.",
+			"source": "international"
+		},
+		{
+			"id": "fr-010",
+			"text": "Cinq chiens chassent six chats.",
+			"source": "international"
+		},
+		{
+			"id": "fr-011",
+			"text": "Pruneau cuit, pruneau cru.",
+			"source": "international"
+		},
+		{
+			"id": "fr-012",
+			"text": "Trois petites truites cuites, trois petites truites crues.",
+			"source": "international"
+		},
+		{
+			"id": "fr-013",
+			"text": "Ces six saucissons-ci sont si secs qu'on ne sait si c'en sont.",
+			"source": "international"
+		},
+		{
+			"id": "fr-014",
+			"text": "Je dis que tu l'as dit à Didi ce que j'ai dit jeudi.",
+			"source": "international"
+		},
+		{
+			"id": "fr-015",
+			"text": "Une bien grosse grasse mère avec de bien beaux gros gras bras blancs.",
+			"source": "international"
+		},
+		{
+			"id": "fr-016",
+			"text": "Suis-je bien chez ce cher Serge?",
+			"source": "international"
+		},
+		{
+			"id": "fr-017",
+			"text": "Ce ver vert sévère sait verser ses verres verts.",
+			"source": "international"
+		},
+		{
+			"id": "fr-018",
+			"text": "Si ma tata tâte ta tata, ta tata sera tâtée.",
+			"source": "international"
+		},
+		{
+			"id": "fr-019",
+			"text": "Qu'a bu l'âne au quai ? Au quai, l'âne a bu l'eau.",
+			"source": "international"
+		},
+		{
+			"id": "fr-020",
+			"text": "Trois tortues trottaient sur un trottoir très étroit.",
+			"source": "international"
+		},
+		{
+			"id": "fr-021",
+			"text": "Son chat chante sa chanson.",
+			"source": "international"
+		},
+		{
+			"id": "fr-022",
+			"text": "Un généreux déjeuner régénérerait des généraux dégénérés.",
+			"source": "international"
+		},
+		{
+			"id": "fr-023",
+			"text": "Seize jacinthes sèchent dans seize sachets secs.",
+			"source": "international"
+		},
+		{
+			"id": "fr-024",
+			"text": "Zazie causait avec sa cousine en cousant.",
+			"source": "international"
+		},
+		{
+			"id": "fr-025",
+			"text": "Un chasseur sachant chasser sait chasser sans son chien de chasse.",
+			"source": "international"
+		},
+		{
+			"id": "fr-026",
+			"text": "Un taxi attaque six taxis.",
+			"source": "international"
+		},
+		{
+			"id": "fr-027",
+			"text": "Cinq gros rats grillent dans la grosse graisse grasse.",
+			"source": "international"
+		},
+		{
+			"id": "fr-028",
+			"text": "Chouettes chaussures !",
+			"source": "international"
+		},
+		{
+			"id": "fr-029",
+			"text": "Si ça se passe ainsi, c'est sans souci.",
+			"source": "international"
+		},
+		{
+			"id": "fr-030",
+			"text": "As-tu vu le tutu de tulle de Lili d'Honolulu?",
+			"source": "international"
+		},
+		{
+			"id": "fr-031",
+			"text": "Dans ta tente ta tante t'attend.",
+			"source": "international"
+		},
+		{
+			"id": "fr-032",
+			"text": "Des blancs pains, des bancs peints, des bains pleins.",
+			"source": "international"
+		},
+		{
+			"id": "fr-033",
+			"text": "Je veux et j'exige d'exquises excuses.",
+			"source": "international"
+		},
+		{
+			"id": "fr-034",
+			"text": "Tonton, ton thé t'a-t-il ôté ta toux?",
+			"source": "international"
+		},
+		{
+			"id": "fr-035",
+			"text": "Trois gros rats gris dans trois gros trous ronds rongent trois gros croûtons ronds.",
+			"source": "international"
+		},
+		{
+			"id": "fr-036",
+			"text": "Douze douches douces.",
+			"source": "international"
+		},
+		{
+			"id": "fr-037",
+			"text": "Si ton tonton tond ton tonton, ton tonton sera tondu par ton tonton.",
+			"source": "international"
+		},
+		{
+			"id": "fr-038",
+			"text": "Papier, panier, piano.",
+			"source": "international"
+		},
+		{
+			"id": "fr-039",
+			"text": "Seize chaises sèchent.",
+			"source": "international"
+		},
+		{
+			"id": "fr-040",
+			"text": "La robe rouge de Rosalie est ravissante.",
+			"source": "international"
+		},
+		{
+			"id": "fr-041",
+			"text": "Si six scies scient six cyprès, six cent six scies scient six cent six cyprès.",
+			"source": "international"
+		},
+		{
+			"id": "fr-042",
+			"text": "Même maman m'a mis ma main dans mon manchon.",
+			"source": "international"
+		},
+		{
+			"id": "fr-043",
+			"text": "Fruits frais, fruits frits, fruits cuits, fruits crus.",
+			"source": "international"
+		},
+		{
+			"id": "fr-044",
+			"text": "Vends vestons, vestes et vareuses vieilles et vétustes.",
+			"source": "international"
+		},
+		{
+			"id": "fr-045",
+			"text": "Poche plate plate poche.",
+			"source": "international"
+		},
+		{
+			"id": "fr-046",
+			"text": "Juste juge, jugez Gilles, jeune et jaloux.",
+			"source": "international"
+		},
+		{
+			"id": "fr-047",
+			"text": "Écartons ton carton, car ton carton nous gêne.",
+			"source": "international"
+		},
+		{
+			"id": "fr-048",
+			"text": "Une bête noire se baigne dans une baignoire noire.",
+			"source": "international"
+		},
+		{
+			"id": "fr-049",
+			"text": "Un plein plat de blé pilé.",
+			"source": "international"
+		},
+		{
+			"id": "fr-050",
+			"text": "Lily lit le livre dans le lit.",
+			"source": "international"
+		}
+	]
+}

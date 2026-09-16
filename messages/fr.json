@@ -1,0 +1,23 @@
+{
+	"app_title": "ttw — un petit défi pour la langue",
+	"app_description": "Trouvez votre rythme avec des virelangues en plusieurs langues. Un peu de pratique, une carte à la fois.",
+	"languages": "Langues",
+	"choose_languages": "Choisir les langues",
+	"languages_selected": "Langues : {languages}",
+	"selected_count": "Langues sélectionnées : {count}",
+	"twister_count": "Virelangues : {count}",
+	"deck_count": "{count} virelangues dans votre jeu · mélangés",
+	"pin_language": "Épingler {language}",
+	"unpin_language": "Désépingler {language}",
+	"previous": "Précédent",
+	"next": "Suivant",
+	"position": "Carte {current} sur {total}",
+	"empty_title": "Tout un monde de mots vous attend.",
+	"empty_description": "Choisissez une langue pour vous délier la langue.",
+	"empty_action": "Choisir une langue",
+	"play": "Écouter la prononciation",
+	"stop": "Arrêter la lecture",
+	"card_help": "Touchez la carte pour passer au virelangue suivant. Utilisez les boutons de navigation pour revenir à la carte précédente ou passer à la suivante. Appuyez sur Entrée ou Espace pour activer la carte. Utilisez les flèches haut et bas pour faire défiler les textes longs.",
+	"loading": "Préparation de votre jeu…",
+	"no_script": "Activez JavaScript pour mélanger les virelangues et vous entraîner."
+}

@@ -1,0 +1,23 @@
+{
+	"app_title": "ttw — un pequeño reto para tu lengua",
+	"app_description": "Encuentra tu ritmo con trabalenguas en varios idiomas. Un poco de práctica, una tarjeta a la vez.",
+	"languages": "Idiomas",
+	"choose_languages": "Elegir idiomas",
+	"languages_selected": "Idiomas: {languages}",
+	"selected_count": "Idiomas seleccionados: {count}",
+	"twister_count": "Trabalenguas: {count}",
+	"deck_count": "{count} trabalenguas en tu baraja · mezclados",
+	"pin_language": "Fijar {language}",
+	"unpin_language": "Desfijar {language}",
+	"previous": "Anterior",
+	"next": "Siguiente",
+	"position": "Tarjeta {current} de {total}",
+	"empty_title": "Te espera todo un mundo de palabras.",
+	"empty_description": "Elige un idioma y pon a prueba tu lengua.",
+	"empty_action": "Elegir un idioma",
+	"play": "Escuchar la pronunciación",
+	"stop": "Detener la lectura",
+	"card_help": "Toca la tarjeta para pasar al siguiente trabalenguas. Usa los botones de navegación para ir a la tarjeta anterior o siguiente. Pulsa Intro o la barra espaciadora para activar la tarjeta. Usa las flechas arriba y abajo para desplazarte por los textos largos.",
+	"loading": "Preparando tu baraja…",
+	"no_script": "Activa JavaScript para mezclar trabalenguas y practicar."
+}

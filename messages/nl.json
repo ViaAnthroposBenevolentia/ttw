@@ -1,0 +1,23 @@
+{
+	"app_title": "ttw — een kleine uitdaging voor je tong",
+	"app_description": "Vind je ritme met tongbrekers in verschillende talen. Oefen een beetje, één kaart tegelijk.",
+	"languages": "Talen",
+	"choose_languages": "Talen kiezen",
+	"languages_selected": "Talen: {languages}",
+	"selected_count": "{count} geselecteerd",
+	"twister_count": "Tongbrekers: {count}",
+	"deck_count": "{count} tongbrekers in je stapel · door elkaar geschud",
+	"pin_language": "{language} vastzetten",
+	"unpin_language": "{language} losmaken",
+	"previous": "Vorige",
+	"next": "Volgende",
+	"position": "Kaart {current} van {total}",
+	"empty_title": "Er wacht een wereld vol woorden.",
+	"empty_description": "Kies een taal en zet je tong aan het werk.",
+	"empty_action": "Een taal kiezen",
+	"play": "Uitspraak beluisteren",
+	"stop": "Voorlezen stoppen",
+	"card_help": "Tik op de kaart voor de volgende tongbreker. Gebruik de navigatieknoppen voor de vorige of volgende kaart. Druk op Enter of de spatiebalk om de kaart te activeren. Gebruik de pijltjes omhoog en omlaag om door langere teksten te scrollen.",
+	"loading": "Je kaarten worden klaargezet…",
+	"no_script": "Schakel JavaScript in om tongbrekers te schudden en te oefenen."
+}

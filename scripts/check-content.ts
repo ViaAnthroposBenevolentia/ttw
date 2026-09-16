@@ -1,6 +1,16 @@
 import { readFileSync } from 'node:fs';
 import assert from 'node:assert/strict';
-import { languages, twisters } from '../src/lib/catalog.ts';
+import { languages, twisters, type LanguageId } from '../src/lib/catalog.ts';
+
+const expectedCounts = {
+	en: 200,
+	kk: 200,
+	ru: 200,
+	fr: 50,
+	nl: 50,
+	de: 50,
+	es: 50
+} satisfies Record<LanguageId, number>;
 
 const normalize = (text: string) =>
 	text
@@ -12,7 +22,11 @@ const ids = new Set<string>();
 
 for (const language of languages) {
 	const texts = new Set<string>();
-	assert.equal(language.collection.twisters.length, 50, `${language.name}: expected 50 twisters`);
+	assert.equal(
+		language.collection.twisters.length,
+		expectedCounts[language.id],
+		`${language.name}: unexpected twister count`
+	);
 
 	for (const twister of language.collection.twisters) {
 		assert.ok(twister.id.startsWith(`${language.id}-`), `Wrong language prefix: ${twister.id}`);
@@ -23,7 +37,7 @@ for (const language of languages) {
 		);
 		assert.ok(!texts.has(normalize(twister.text)), `Duplicate text: ${twister.id}`);
 		assert.ok(twister.source in language.collection.sources, `Missing source: ${twister.id}`);
-		if (language.id !== 'en')
+		if (language.id === 'kk' || language.id === 'ru')
 			assert.ok(!/[a-z]/i.test(twister.text), `Latin letters in Cyrillic text: ${twister.id}`);
 		ids.add(twister.id);
 		texts.add(normalize(twister.text));

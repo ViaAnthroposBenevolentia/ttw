@@ -1,0 +1,23 @@
+{
+	"app_title": "ttw — ein kleines Training für deine Zunge",
+	"app_description": "Finde deinen Rhythmus mit Zungenbrechern in verschiedenen Sprachen. Ein bisschen Übung, eine Karte nach der anderen.",
+	"languages": "Sprachen",
+	"choose_languages": "Sprachen auswählen",
+	"languages_selected": "Sprachen: {languages}",
+	"selected_count": "{count} ausgewählt",
+	"twister_count": "Zungenbrecher: {count}",
+	"deck_count": "{count} Zungenbrecher in deinem Stapel · bunt gemischt",
+	"pin_language": "{language} anheften",
+	"unpin_language": "{language} lösen",
+	"previous": "Zurück",
+	"next": "Weiter",
+	"position": "Karte {current} von {total}",
+	"empty_title": "Eine ganze Welt voller Wörter wartet auf dich.",
+	"empty_description": "Wähle eine Sprache und bring deine Zunge in Schwung.",
+	"empty_action": "Eine Sprache auswählen",
+	"play": "Aussprache anhören",
+	"stop": "Vorlesen stoppen",
+	"card_help": "Tippe auf die Karte, um zum nächsten Zungenbrecher zu gelangen. Nutze die Navigationstasten für die vorherige oder nächste Karte. Drücke die Eingabetaste oder die Leertaste, um die Karte zu aktivieren. Mit den Pfeiltasten nach oben und unten kannst du durch längere Texte scrollen.",
+	"loading": "Deine Karten werden vorbereitet…",
+	"no_script": "Aktiviere JavaScript, um Zungenbrecher zu mischen und zu üben."
+}
