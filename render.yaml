@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ttw
+    name: tongue-twisters
     runtime: static
     buildCommand: npx --yes pnpm@12.4.1 install --frozen-lockfile && npx --yes pnpm@12.4.1 build
     staticPublishPath: ./build

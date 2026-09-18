@@ -41,7 +41,7 @@ Updates install in the background and activate after existing app tabs/windows c
 
 ## Deploy to Render
 
-Connect the repository as a Render Blueprint using `render.yaml`. It builds a static site at the domain root and waits for GitHub checks before automatic deployments. The checked-in workflow runs the same gate as local development.
+The app is deployed at https://tongue-twisters.onrender.com as a Render static site. Headers and deployment settings are configured in the Render dashboard; `render.yaml` records the equivalent Blueprint configuration. It builds at the domain root and waits for GitHub checks before automatic deployments. The checked-in workflow runs the same gate as local development.
 
 When ready, add `ttw.fun` in Render's custom-domain settings and follow its DNS instructions in Cloudflare. The app needs no runtime environment variables or backend.
 
